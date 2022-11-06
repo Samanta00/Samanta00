@@ -8,7 +8,7 @@
 ### i life in Brazil on Recife(Pernambuco)
 ### My english is good for write and read sometimes I understand talking or listening.
 
-### in my jornada i did scientific initiation on the college but don't completed, so with it i know ageis method and scrum.
+### in my journey i did scientific initiation on the college but don't completed, so with it i know ageis method and scrum.
 
 ### this is my profile, i want you to know how i am.
 
