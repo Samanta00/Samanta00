@@ -1,7 +1,7 @@
-# Hi Guys
-# I'm Ellen Samanta, But you can call me Samanta 
+<h1 align="center">Hi 👋, I'm Ellen Samanta</h1>
 
 ![happy](https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/woman-raising-hand-medium-skin-tone_1f64b-1f3fd-200d-2640-fe0f.png)
+<h3 align="center">A passionate back-end developer from Brazil</h3>
 
 ## about me: i Study ADS(analysis and systems development) 
 ### I started in college in the Year 2021 and I will Finish in the year 2023 on the college Unibra(Centro Universitário Brasileiro)
