@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ellen Samanta</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Ellen)](https://git.io/typing-svg)
 
 ![happy](https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/woman-raising-hand-medium-skin-tone_1f64b-1f3fd-200d-2640-fe0f.png)
 <h3 align="center">A passionate back-end developer from Brazil</h3>
