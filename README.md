@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=1000&color=F75179&random=true&width=1700&lines=Hi%2C+my+name+is+Ellen+Samanta%F0%9F%91%8B%F0%9F%8F%BC;I'm+a+Full-Stack+developer+with+DevOps+knowledge+and+concepts.;I+Graduated+in+Systems+Analysis+and+Development.;Welcome+to+my+GitHub+Profile%E2%98%BA%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=1000&color=E11160&center=true&vCenter=true&random=true&width=1310&height=80&lines=Hi%2C+my+name+is+Ellen+Samanta+;I+am+a+full-stack+developer+with+knowledge+of+DevOps+concepts.;I+graduated+in+Systems+Analysis+and+Development.)](https://git.io/typing-svg)
 
 
 
