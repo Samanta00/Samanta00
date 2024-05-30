@@ -1,7 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=1000&color=F75179&random=true&width=1700&lines=Hi%2C+my+name+is+Ellen+Samanta%F0%9F%91%8B%F0%9F%8F%BC;I'm+a+Full-Stack+developer+with+DevOps+knowledge+and+concepts.;I+Graduated+in+Systems+Analysis+and+Development.;Welcome+to+my+GitHub+Profile%E2%98%BA%EF%B8%8F)](https://git.io/typing-svg)
 
-![happy](https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/woman-raising-hand-medium-skin-tone_1f64b-1f3fd-200d-2640-fe0f.png)
-<h3 align="center">A passionate back-end developer from Brazil</h3>
+
 
 ## about me: i Study ADS(analysis and systems development) 
 ### I started in college in the Year 2021 and I will Finish in the year 2023 on the college Unibra(Centro Universitário Brasileiro)
