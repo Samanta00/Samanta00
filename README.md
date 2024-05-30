@@ -2,7 +2,6 @@
 
 
 
-## about me: i Study ADS(analysis and systems development) 
 ### I started in college in the Year 2021 and I will Finish in the year 2023 on the college Unibra(Centro Universitário Brasileiro)
 ### i life in Brazil on Recife(Pernambuco)
 ### My english is good for write and read sometimes I understand talking or listening.
