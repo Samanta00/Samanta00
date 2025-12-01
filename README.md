@@ -1,12 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=1000&color=E11160&center=true&vCenter=true&random=true&width=1310&height=80&lines=Hi%2C+my+name+is+Ellen+Samanta+%F0%9F%91%8B%F0%9F%8F%BB;I+am+a+full-stack+developer+with+knowledge+of+DevOps+concepts.;I+graduated+in+Systems+Analysis+and+Development.;Welcome+to+my+Github+Profile!+%F0%9F%98%8A)](https://git.io/typing-svg)
 
-<div align='center'>
-  
 
-  
-![gif](https://camo.githubusercontent.com/3ec866cc57a2b727aab2ed1a8684088fae7e77aa20914b2366c6889d75fd8d08/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f34302f30352f62342f34303035623439656666386338313564663765336632336365363338666538632e676966)
-
-</div>
 
 
 
@@ -18,7 +12,6 @@
 ### Contact me to hire my services, discuss projects / proposals, or share knowledge.
   
 [![linkedlin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ellen-samanta-nunes-da-silva-674a42227/)
-[![zap](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5581981311245)
   
 </div>
 
