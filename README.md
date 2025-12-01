@@ -117,12 +117,6 @@
 <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white">
 </div>
 
-</div>
-<h3> In some of my projects you can see some of these programming languages.  </h3>  
-
-![Samanta00 GitHub stats](https://github-readme-stats.vercel.app/api?username=Samanta00&show_icons=true&theme=radical)
-
-</div>
 
 
 
