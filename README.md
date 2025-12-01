@@ -2,11 +2,6 @@
 
 
 
-
-
-
-
-
 <div align="center">
   
 ### Contact me to hire my services, discuss projects / proposals, or share knowledge.
@@ -17,18 +12,6 @@
 
 
 
-
-
-
-
-<div align='center'>
-
-### ____________________________-Let's go ? _____________________________
-
-![very](https://media0.giphy.com/media/LXHJRRjnviw7e/giphy.gif?cid=790b76110b12ba450501b345270ccdd4907170ae696d336c&rid=giphy.gif&ct=g)
-
-## Languages and Tools:
-<div alt="html5" style="display: inline_block"><br/>
   
 <h3>Frontend</h3>
 <img height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
@@ -42,26 +25,13 @@
 <img height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original-wordmark.svg" />  
 <img height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original-wordmark.svg" />
 
-</div>
-
-<h3>Fullstack</h3>
-<div>
-<img height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
-<img height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" />
-<img height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
-<img height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original-wordmark.svg" />
-
-
-
-</div>
-
-
 
 <h3>Backend</h3>
 <img height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original-wordmark.svg" />
 
 <div>
+<img height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original-wordmark.svg" />
+<img height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
 <img height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg" />
 <img height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
 <img height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original-wordmark.svg" />
